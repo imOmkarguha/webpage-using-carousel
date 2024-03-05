@@ -1,2 +1,2 @@
-# webpage-using-carousel
-automatic carousel slider
+# Webpage-using-carousel
+Automatic Carousel Slider
