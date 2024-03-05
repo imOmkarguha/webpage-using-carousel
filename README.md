@@ -1,2 +1,2 @@
-# Webpage Using Carousel
+# Webpage Using Carousel(UI)
 Automatic Carousel Slider
